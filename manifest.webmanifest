@@ -1,0 +1,37 @@
+{
+  "name": "Pot Harvester",
+  "short_name": "Pot Harvester",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0a0e14",
+  "theme_color": "#0a0e14",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/pot-harvester",
+  "description": "Offline GPS pot layout tool: drop pots at set spacing with distance, speed and compass readouts.",
+  "categories": [
+    "navigation",
+    "utilities"
+  ],
+  "lang": "en"
+}
